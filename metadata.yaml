@@ -1,16 +1,22 @@
 _repo: Desiderius-Erasmus-of-Rotterdam_47517
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Jackson, Samuel Macauley
       gutenberg_agent_id: '44362'
       url: http://www.gutenberg.org/2009/agents/44362
+covers:
+- cover_type: archival
+  image_path: 47517-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerton, Ephraim
     gutenberg_agent_id: '44361'
     url: http://www.gutenberg.org/2009/agents/44361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47517#Desiderius-Erasmus-of-Rotterdam
 gutenberg_issued: '2014-12-02'
 gutenberg_type: Text
 identifiers:
